@@ -375,6 +375,7 @@ namespace Lab_7
         }
 
 
+
         //
 
         public static void SaveToFileTxt(List<Inst_account> accounts, string path)
